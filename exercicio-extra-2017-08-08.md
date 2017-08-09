@@ -14,6 +14,8 @@ Legacy Release - 2.2 Branch:
 2.2.34 (released 2017-07-11)
 If you are downloading the Win32 distribution, please read these important notes.
 
+Fonte: https://httpd.apache.org/download.cgi
+
 #NGINX
 
 nginx: download
@@ -28,6 +30,8 @@ Legacy versions
 
 CHANGES-1.10	nginx-1.10.3  pgp	nginx/Windows-1.10.3  pgp
 
+Fonte: http://nginx.org/en/download.html
+
 #WORDPRESS
 
 Versão mais recente
@@ -35,4 +39,6 @@ Versão mais recente
 Ramo 4.8
 4.8.1	02-08-2017	zip (md5)	tar.gz (md5)
 4.8	14-07-2017	zip (md5)	tar.gz (md5)
+
+Fonte: https://br.wordpress.org/releases/
 
